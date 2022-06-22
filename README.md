@@ -1,4 +1,4 @@
-# bootcamp-nodejs-activity
+# NodeJS Express Bootcamp Activity
 A NodeJS Express Server with basic CRUD API built during the Bootcamp Mentoring period, and in conjunction to simulate the connection between server(NodeJS) and the client(AngularJS Bootcamp Activity).
 
 
